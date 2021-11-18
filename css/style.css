@@ -1,0 +1,214 @@
+body {
+    font-family: 'PT Sans Narrow', sans-serif;
+}
+
+.heading {
+    text-align: center;
+}
+
+h1 {
+    font-size: 50px;
+    text-transform: uppercase;
+
+    position: absolute;
+    top: 40%;
+    left: 35%;
+}
+
+#dot1 {
+    position: absolute;
+    top: 10%;
+    left: 8%;
+    height: 90px;
+    width: 90px;
+    border-radius: 50%;
+    background-color: black;
+    display: inline-block;
+}
+
+#dot2 {
+    position: absolute;
+    top: 45%;
+    left: 5%;
+    height: 120px;
+    width: 120px;
+    border-radius: 50%;
+    background-color: black;
+    display: inline-block;
+}
+
+#dot3 {
+    position: absolute;
+    bottom: 10%;
+    left: 4%;
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+    background-color: black;
+    display: inline-block;
+}
+
+#dot4 {
+    position: absolute;
+    top: 25%;
+    left: 20%;
+    height: 130px;
+    width: 130px;
+    border-radius: 50%;
+    background-color: black;
+    display: inline-block;
+}
+
+#dot5 {
+    position: absolute;
+    bottom: 6%;
+    left: 24%;
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    background-color: black;
+    display: inline-block;
+}
+
+#dot6 {
+    position: absolute;
+    bottom: 25%;
+    left: 17%;
+    height: 90px;
+    width: 90px;
+    border-radius: 50%;
+    background-color: black;
+    display: inline-block;
+}
+
+#dot7 {
+    position: absolute;
+    top: 8%;
+    left: 30%;
+    height: 90px;
+    width: 90px;
+    border-radius: 50%;
+    background-color: black;
+    display: inline-block;
+}
+
+#dot8 {
+    position: absolute;
+    top: 33%;
+    left: 45%;
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+    background-color: black;
+    display: inline-block;
+}
+
+#dot9 {
+    position: absolute;
+    top: 16%;
+    left: 52%;
+    height: 110px;
+    width: 110px;
+    border-radius: 50%;
+    background-color: black;
+    display: inline-block;
+}
+
+#dot10 {
+    position: absolute;
+    bottom: 18%;
+    left: 40%;
+    height: 130px;
+    width: 130px;
+    border-radius: 50%;
+    background-color: black;
+    display: inline-block;
+}
+
+#dot11 {
+    position: absolute;
+    bottom: 5%;
+    left: 53%;
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+    background-color: black;
+    display: inline-block;
+}
+
+#dot12 {
+    position: absolute;
+    bottom: 7%;
+    left: 62%;
+    height: 180px;
+    width: 180px;
+    border-radius: 50%;
+    background-color: black;
+    display: inline-block;
+}
+
+#dot13 {
+    position: absolute;
+    bottom: 7%;
+    right: 10%;
+    height: 130px;
+    width: 130px;
+    border-radius: 50%;
+    background-color: black;
+    display: inline-block;
+}
+
+#dot14 {
+    position: absolute;
+    bottom: 28%;
+    right: 7%;
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+    background-color: black;
+    display: inline-block;
+}
+
+#dot15 {
+    position: absolute;
+    bottom: 35%;
+    right: 17%;
+    height: 90px;
+    width: 90px;
+    border-radius: 50%;
+    background-color: black;
+    display: inline-block;
+}
+
+#dot16 {
+    position: absolute;
+    top: 30%;
+    right: 8%;
+    height: 120px;
+    width: 120px;
+    border-radius: 50%;
+    background-color: black;
+    display: inline-block;
+}
+
+#dot17 {
+    position: absolute;
+    top: 25%;
+    right: 25%;
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+    background-color: black;
+    display: inline-block;
+}
+
+#dot18 {
+    position: absolute;
+    top: 7%;
+    right: 15%;
+    height: 140px;
+    width: 140px;
+    border-radius: 50%;
+    background-color: black;
+    display: inline-block;
+}
